@@ -15,3 +15,5 @@ Machine Learning
 - Tensorflow
 - Keras
 - Scikit-learn (Implement later for MLP)
+
+Dataset: flickr8k
